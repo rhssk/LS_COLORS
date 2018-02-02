@@ -103,55 +103,6 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .djvu                 38;5;141
 .pdf                  38;5;141
 .PDF                  38;5;141
-# words {{{3
-.docm                 38;5;111;4
-.doc                  38;5;111
-.docx                 38;5;111
-.eps                  38;5;111
-.ps                   38;5;111
-.odb                  38;5;111
-.odt                  38;5;111
-.rtf                  38;5;111
-# presentation {{{3
-.odp                  38;5;166
-.pps                  38;5;166
-.ppt                  38;5;166
-.pptx                 38;5;166
-#   Powerpoint show
-.ppts                 38;5;166
-#   Powerpoint with enabled macros
-.pptxm                38;5;166;4
-#   Powerpoint show with enabled macros
-.pptsm                38;5;166;4
-# spreadsheet {{{3
-.csv                  38;5;78
-#   Open document spreadsheet
-.ods                  38;5;112
-.xla                  38;5;76
-#   Excel spreadsheet
-.xls                  38;5;112
-.xlsx                 38;5;112
-#   Excel spreadsheet with macros
-.xlsxm                38;5;112;4
-#   Excel module
-.xltm                 38;5;73;4
-.xltx                 38;5;73
-# }}}
-# }}}
-# configs {{{2
-*cfg                  1
-*conf                 1
-*rc                   1
-.ini                  1
-.plist                1
-#   vim
-.viminfo              1
-#   cisco VPN client configuration
-.pcf                  1
-#   adobe photoshop proof settings file
-.psf                  1
-# }}}
-# }}}
 # code {{{1
 # version control {{{2
 .git                  38;5;197
@@ -287,15 +238,6 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 *Makefile             38;5;155
 *MANIFEST             38;5;243
 *pm_to_blib           38;5;240
-# automake
-.am                   38;5;242
-.in                   38;5;242
-.hin                  38;5;242
-.scan                 38;5;242
-.m4                   38;5;242
-.old                  38;5;242
-.out                  38;5;242
-.SKIP                 38;5;244
 # }}}
 # patch files {{{2
 .diff                 48;5;197;38;5;232
