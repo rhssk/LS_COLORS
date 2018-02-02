@@ -55,7 +55,6 @@ SOCK                  38;5;197
 STICKY                38;5;86;48;5;234
 STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 
-*LS_COLORS 48;5;89;38;5;197;1;3;4;7 # :-)
 # }}}
 # documents {{{1
 *README               38;5;220;1
@@ -104,12 +103,6 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .pdf                  38;5;141
 .PDF                  38;5;141
 # code {{{1
-# version control {{{2
-.git                  38;5;197
-.gitignore            38;5;240
-.gitattributes        38;5;240
-.gitmodules           38;5;240
-
 # shell {{{2
 .awk                  38;5;172
 .bash                 38;5;172
